@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+img {
+    width: 70vw;
+}
+body {
+    background-image: url("/img/space.gif");
+    background-size: cover;
+    color: greenyellow;
+    ;
+}
