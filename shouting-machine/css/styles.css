@@ -1,0 +1,8 @@
+.hidden {
+    display: none;
+}
+
+#userInput {
+    text-transform: uppercase;
+    font-size: 50px;
+}
